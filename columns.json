@@ -1,0 +1,5 @@
+{
+    "data":"FBDQA2021A_MMP_Challenge",
+    "feature":["amount_delta","ask1","ask2","ask3","ask4","ask5","asize1","asize2","asize3","asize4","asize5","bid1","bid2","bid3","bid4","bid5","bsize1","bsize2","bsize3","bsize4","bsize5"],
+    "label":"label_10"
+}
